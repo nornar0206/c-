@@ -12,3 +12,8 @@
 >>>>>>---
 >>>>>>https://velog.io/@jytrack/Git-Error-fatal-in-unpopulated-submodule-...-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0
 >>>>>>---
+# 0. Settings
+1. Ubuntu Keyboards
+ - https://m2nja201.github.io/programming/ubuntu/Ubuntu-key/
+ - 죽어도 한글 입력 안되서 직접 찾아봤더니 Hangeul 이거 적용해야되는거였음
+ 
